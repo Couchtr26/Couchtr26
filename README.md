@@ -2,6 +2,9 @@
 
 **Builder. Coder. Relentless creator.**  
 I don’t just write code — I ship tools people can *actually use*.  
+> 🛠️ I don’t just code to learn — I code to build.  
+> Every project I release is something you can actually use.  
+> If it doesn’t make someone say “Holy hell, I can use this,” it isn’t done yet.
 
 From QR flyer generators to emotional companions, from file sorters to dev utilities — if it doesn’t exist yet, I’ll build it.
 
