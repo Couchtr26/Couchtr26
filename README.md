@@ -29,7 +29,7 @@ Fully client-side, privacy-focused, and easy to use.
 ### 🎱 [Bankline-Billiards](https://github.com/Couchtr26/Bankline-Billiards)  
 *A lightweight digital pool game prototype built with Python and Pygame.*  
 Features realistic physics, AI opponents, and trick shot saving for single-player fun.
-[!Video Title](https://youtu.be/8-_t-wPChws)
+[!Video Title](https://img.youtube.com/vi/8-_t-wPChws/0.jpg)](https://youtu.be/8-_t-wPChws)
 
 ---
 
