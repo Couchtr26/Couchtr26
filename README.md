@@ -25,12 +25,14 @@ Because files named `MOVIE_FINAL2_FIXED.mkv` deserve better.
 ### 🤖 [Bookmark-Cleaner](https://github.com/Couchtr26/Bookmark-Cleaner)  
 *JavaScript bookmark cleaning tool that scans exported bookmarks HTML files for dead or unreachable links.*  
 Fully client-side, privacy-focused, and easy to use.
+
 [![Watch the demo](https://img.youtube.com/vi/TGI3ZNlu974/0.jpg)](https://youtu.be/TGI3ZNlu974)
 
 
 ### 🎱 [Bankline-Billiards](https://github.com/Couchtr26/Bankline-Billiards)  
 *A lightweight digital pool game prototype built with Python and Pygame.*  
 Features realistic physics, AI opponents, and trick shot saving for single-player fun.
+
 [![Watch the demo](https://img.youtube.com/vi/8-_t-wPChws/0.jpg)](https://youtu.be/8-_t-wPChws)
 
 ---
