@@ -1,34 +1,43 @@
 # 👋 Hey, I'm Thomas
 
-**Builder. Coder. Relentless creator.**  
-I don’t just write code — I ship tools people can *actually use*.  
-> 🛠️ I don’t just code to learn — I code to build.  
-> Every project I release is something you can actually use.  
-> If it doesn’t make someone say “Holy hell, I can use this,” it isn’t done yet.
+### Builder. Coder. Relentless Creator.
 
-From QR flyer generators to emotional companions, from file sorters to dev utilities — if it doesn’t exist yet, I’ll build it.
+I don’t just write code — I ship tools people can *actually use*.  
+> 🛠️ I don’t code to learn — I code to **build**.  
+> Every project I release is something that makes someone say,  
+> **“Holy hell, I can use this.”** If it doesn’t, it isn’t done yet.
+
+From QR flyer generators to emotional companions, file sorters to dev utilities —  
+if it doesn’t exist yet, I’ll build it.
 
 ---
 
 ## 💻 Projects You’ll Actually Use
 
-### 🚀 [ScanShow](https://github.com/Couchtr26/ScanShow)
-QR Code flyer builder – clean designs, optional product images, logo uploads, and layout templates. Built for real businesses, not fake demos.
+### 🚀 [Spectral Hacker](https://github.com/Couchtr26/SpectralHacker)  
+*Educational Spectroscopy Tool using Python.*  
+Extracts basic gas compositions from space/star images by analyzing RGB spectra. Perfect for hobbyists, students, educators & science enthusiasts.
 
-### 🎥 [Movie Sorter](https://github.com/Couchtr26/MovieSorter)
-Sort your movie collection by title using metadata. Because files named `MOVIE_FINAL2_FIXED.mkv` deserve better.
+### 🎥 [Movie Sorter](https://github.com/Couchtr26/MovieSorter)  
+*Sort your movie collection by title using metadata.*  
+Because files named `MOVIE_FINAL2_FIXED.mkv` deserve better.
 
-### 🤖 [Silas](https://github.com/Couchtr26/Silas)
-An emotional support tool in development. Silas is built to *feel good*, not just look good — and the journey is just getting started.
+### 🤖 [Bookmark-Cleaner](https://github.com/Couchtr26/Bookmark-Cleaner)  
+*JavaScript bookmark cleaning tool that scans exported bookmarks HTML files for dead or unreachable links.*  
+Fully client-side, privacy-focused, and easy to use.
+
+### 🎱 [Bankline-Billiards](https://github.com/Couchtr26/Bankline-Billiards)  
+*A lightweight digital pool game prototype built with Python and Pygame.*  
+Features realistic physics, AI opponents, and trick shot saving for single-player fun.
 
 ---
 
 ## 🛠️ What I Do
 
-- Python Developer (real-world tools, not textbook fluff)
-- GUI apps using Tkinter & Flask
-- File automation & data parsing
-- Idea > Execution > Release — **fast**
+- Python Developer (real-world tools, not textbook fluff)  
+- GUI apps using Tkinter & Flask  
+- File automation & data parsing  
+- Idea ➡ Execution ➡ Release — **fast**
 
 ---
 
@@ -37,18 +46,33 @@ An emotional support tool in development. Silas is built to *feel good*, not jus
 I’m not here for stars.  
 I’m here to build — and help people who **actually do things**.
 
-You want slick drag-and-drop for your pitch deck?  
-Cool.  
-You want *code that works, fast, and clean*?
+> You want slick drag-and-drop for your pitch deck?  
+> Cool.  
+> You want *code that works, fast, and clean*?  
+> We should talk.
 
-We should talk.
+---
+
+## 🛠️ Tech Stack
+
+**Python** | **Tkinter** | **Flask** | **Web Scraping** | **Automation** | **Git** | **REST APIs**
 
 ---
 
 ## ⚡ Want to Collaborate?
 
-Open an issue, fork something, or reach out.
+Open an issue, fork something, or reach out.  
+If you’re the kind of person who says:  
+*“Let’s build it instead of whining it doesn’t exist”* — we’re already on the same page.
 
-If you’re the kind of person who says  
-“Let’s build it instead of whining it doesn’t exist” —  
-We’re already on the same page.
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [couchtr26@gmail.com](mailto:couchtr26@gmail.com)  
+- 💻 GitHub: [github.com/Couchtr26](https://github.com/Couchtr26)  
+- 🌐 Portfolio: [greyknightsoftware.itch.io](https://greyknightsoftware.itch.io)
+
+---
+
+*© 2025 Thomas Couch — Grey Knight Software*
