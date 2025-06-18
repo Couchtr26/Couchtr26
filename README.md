@@ -12,13 +12,13 @@ From QR flyer generators to emotional companions, from file sorters to dev utili
 
 ## 💻 Projects You’ll Actually Use
 
-### 🚀 [ScanShow](https://github.com/YourUsername/ScanShow)
+### 🚀 [ScanShow](https://github.com/Couchtr26/ScanShow)
 QR Code flyer builder – clean designs, optional product images, logo uploads, and layout templates. Built for real businesses, not fake demos.
 
-### 🎥 [Movie Sorter](https://github.com/YourUsername/MovieSorter)
+### 🎥 [Movie Sorter](https://github.com/Couchtr26/MovieSorter)
 Sort your movie collection by title using metadata. Because files named `MOVIE_FINAL2_FIXED.mkv` deserve better.
 
-### 🤖 [Silas](https://github.com/YourUsername/Silas)
+### 🤖 [Silas](https://github.com/Couchtr26/Silas)
 An emotional support tool in development. Silas is built to *feel good*, not just look good — and the journey is just getting started.
 
 ---
