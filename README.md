@@ -1,59 +1,54 @@
 Hi, I'm Thomas 👋
 Builder. Coder. Relentless Creator.
 
-I don’t just write code — I ship tools people can actually use.
+I don’t just write code — I deliver tools people can actually use.
 
 🛠️ What Drives Me
-I don’t code to learn — I code to build. Every project I release is something that makes someone say,
-“Holy hell, I can use this.”
-If it doesn’t, it’s not done yet.
+I don’t code to learn — I code to build. Every project I release aims to solve real problems and deliver clear value. If it’s not ready to help someone, it’s not done yet.
 
-From QR flyer generators to emotional companions, file sorters to dev utilities — if it doesn’t exist, I’ll build it.
+From QR flyer generators to emotional companions, file sorters to developer utilities — if it doesn’t exist, I’ll build it.
 
 💻 Projects You’ll Actually Use
 Spectral Hacker
-Educational spectroscopy tool in Python.
-Extracts basic gas compositions from space/star images by analyzing RGB spectra — perfect for hobbyists, students, educators, and science fans.
+Educational spectroscopy tool built with Python. Extracts gas compositions from space and star images by analyzing RGB spectra — ideal for hobbyists, students, educators, and science enthusiasts.
 
 Movie Sorter
-Sort your movie collection by title using metadata.
-Because files named MOVIE_FINAL2_FIXED.mkv deserve better.
+Organize your movie collection by title using metadata — because files named MOVIE_FINAL2_FIXED.mkv deserve better.
 
 Bookmark-Cleaner
-JavaScript tool that scans exported bookmark HTML files for dead or unreachable links.
-Fully client-side, privacy-focused, and super easy to use.
+JavaScript tool that scans exported bookmark HTML files for dead or unreachable links. Fully client-side, privacy-focused, and easy to use.
 
-[![Watch the demo](https://img.youtube.com/vi/TGI3ZNlu974/0.jpg)](https://youtu.be/TGI3ZNlu974)   
+[![Watch the demo](https://img.youtube.com/vi/TGI3ZNlu974/0.jpg)](https://youtu.be/TGI3ZNlu974)
 
 Bankline-Billiards
-Lightweight digital pool game prototype built with Python and Pygame.
-Features realistic physics, AI opponents, and trick shot saving for solo fun.
+Lightweight digital pool game prototype built with Python and Pygame. Features realistic physics, AI opponents, and trick shot saving for solo play.
 
 [![Watch the demo](https://img.youtube.com/vi/8-_t-wPChws/0.jpg)](https://youtu.be/8-_t-wPChws)
 
 🛠️ What I Do
-Python Developer (real-world tools, no textbook fluff)
+Python development focused on real-world applications, not textbook examples
 
-GUI apps with Tkinter & Flask
+GUI applications using Tkinter & Flask
 
-File automation & data parsing
+File automation and data parsing
 
-Idea → Execution → Release — fast
+Fast idea-to-release execution
 
 🧠 Why I’m Here
-I’m not here for stars. I’m here to build — and help people who actually do things.
+I’m not here for accolades. I’m here to build — and help people who get things done.
 
-Want slick drag-and-drop for your pitch deck? Cool.
+Want slick drag-and-drop for your pitch deck? Let’s make it happen.
 
-Need code that works, fast and clean? We should talk.
+Need clean, efficient code delivered fast? Let’s talk.
 
 🛠️ Tech Stack
 Python | Tkinter | Flask | Web Scraping | Automation | Git | REST APIs
 
 ⚡ Want to Collaborate?
-Open an issue, fork something, or reach out.
-If you say:
-“Let’s build it instead of whining it doesn’t exist,” we’re already on the same page.
+Open an issue, fork a project, or reach out.
+If you believe:
+“Let’s build it instead of whining it doesn’t exist,”
+we’re on the same page.
 
 📫 How to Reach Me
 📧 Email: couchtr26@gmail.com
