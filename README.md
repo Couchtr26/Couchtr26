@@ -12,15 +12,17 @@ From QR flyer generators to emotional companions, file sorters to developer util
 Spectral Hacker
 Educational spectroscopy tool built with Python. Extracts gas compositions from space and star images by analyzing RGB spectra — ideal for hobbyists, students, educators, and science enthusiasts.
 
-Movie Sorter
-Organize your movie collection by title using metadata — because files named MOVIE_FINAL2_FIXED.mkv deserve better.
+Movie_Game
+A FastAPI-powered movie simulation game where producers, actors, and scandals shape each film's success.
 
-Bookmark-Cleaner
+[![Watch the demo](https://img.youtube.com/vi/nf5_B6xl-Bc/0.jpg)](https://youtu.be/nf5_B6xl-Bc)
+
+Bookmark_Cleaner
 JavaScript tool that scans exported bookmark HTML files for dead or unreachable links. Fully client-side, privacy-focused, and easy to use.
 
 [![Watch the demo](https://img.youtube.com/vi/TGI3ZNlu974/0.jpg)](https://youtu.be/TGI3ZNlu974)
 
-Bankline-Billiards
+Bankline_Billiards
 Lightweight digital pool game prototype built with Python and Pygame. Features realistic physics, AI opponents, and trick shot saving for solo play.
 
 [![Watch the demo](https://img.youtube.com/vi/8-_t-wPChws/0.jpg)](https://youtu.be/8-_t-wPChws)
