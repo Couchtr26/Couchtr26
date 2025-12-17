@@ -39,7 +39,7 @@ Features:
 Products, orders, and user management
 Authentication & authorization
 Structured for production deployment
-GitHub Repo
+[GitHub Repo](https://github.com/Couchtr26/Ecommerce_API)
 
 Python & Utility Tools
 Spectral Hacker – Educational spectroscopy tool analyzing RGB spectra from space/star images.
