@@ -8,13 +8,14 @@ Automation & Scripting: Python and JavaScript tools for real-world productivity.
 Rapid Prototyping: Fast idea-to-release execution without cutting corners.
 
 💻 Highlight Projects
+
 Auth_App (Rails 8.1.1)
 A robust authentication system with user signup, email verification, and session management. Designed for real-world deployments and scalable usage.
 Features:
 Full Rails 8.1.1 stack
 Email notifications & user verification
 JWT/Devise authentication ready
-GitHub Repo
+[GitHub Repo](https://github.com/Couchtr26/Auth_app)
 
 Ruby_Blog (Rails)
 Full-featured blogging platform with user accounts, commenting, and email notifications.
