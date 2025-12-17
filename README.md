@@ -31,7 +31,7 @@ Features:
 JSON endpoints for CRUD operations
 API rate limiting and security considerations
 Ready for integration with front-end apps
-GitHub Repo
+[GitHub Repo](https://github.com/Couchtr26/Bookstore_API)
 
 Ecommerce_API (Rails API)
 Full backend API supporting e-commerce workflows.
