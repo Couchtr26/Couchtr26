@@ -23,7 +23,7 @@ Features:
 User signup/sign-in
 Automatic email notifications
 Dynamic post and comment management
-GitHub Repo
+[GitHub Repo](https://github.com/Couchtr26/ruby_blog)
 
 Bookstore_API (Rails API)
 A RESTful API for a bookstore application with endpoints for books, users, and orders.
