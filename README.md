@@ -1,66 +1,101 @@
-Thomas Couch 👋
-Builder. Coder. Relentless Creator.
-I don’t just write code — I deliver tools people can actually use. Every project I release solves real problems and provides clear value. If it’s not ready to help someone, it’s not done yet.
+Ruby on Rails Backend Developer
 
-🛠️ Core Focus
-Rails & Web Apps: From full-stack applications to REST APIs.
-Automation & Scripting: Python and JavaScript tools for real-world productivity.
-Rapid Prototyping: Fast idea-to-release execution without cutting corners.
+Ruby on Rails backend developer focused on building, deploying, and maintaining production web applications. I work primarily on backend systems involving APIs, authentication, database design, and server-side logic, with experience operating applications in real production environments.
 
-💻 Highlight Projects
+I enjoy owning backend features end-to-end—from database schema design through API implementation and deployment—and improving existing Rails codebases with maintainable, convention-aligned solutions.
 
-Auth_App (Rails 8.1.1)
-A robust authentication system with user signup, email verification, and session management. Designed for real-world deployments and scalable usage.
-Features:
-Full Rails 8.1.1 stack
-Email notifications & user verification
-JWT/Devise authentication ready
-[GitHub Repo](https://github.com/Couchtr26/Auth_app)
+---
 
-Ruby_Blog (Rails)
-Full-featured blogging platform with user accounts, commenting, and email notifications.
-Features:
-User signup/sign-in
-Automatic email notifications
-Dynamic post and comment management
-[GitHub Repo](https://github.com/Couchtr26/ruby_blog)
+## Core Focus Areas
 
-Bookstore_API (Rails API)
-A RESTful API for a bookstore application with endpoints for books, users, and orders.
-Features:
-JSON endpoints for CRUD operations
-API rate limiting and security considerations
-Ready for integration with front-end apps
-[GitHub Repo](https://github.com/Couchtr26/Bookstore_API)
+* Ruby on Rails backend development
+* RESTful API design and implementation
+* Authentication and authorization systems
+* PostgreSQL database design and optimization
+* ActiveRecord modeling and schema design
+* Production deployment and debugging
+* Maintaining and extending existing Rails applications
 
-Ecommerce_API (Rails API)
-Full backend API supporting e-commerce workflows.
-Features:
-Products, orders, and user management
-Authentication & authorization
-Structured for production deployment
-[GitHub Repo](https://github.com/Couchtr26/Ecommerce_API)
+---
 
-Python & Utility Tools
-Spectral Hacker – Educational spectroscopy tool analyzing RGB spectra from space/star images.
-Bookmark_Cleaner – JS tool scanning exported bookmarks for dead links, client-side.
-Bankline_Billiards – Lightweight Pygame digital pool prototype with AI.
-Other projects cover automation, web scraping, and file processing.
+## Technical Skills
 
-🛠️ Technical Skills
-Languages & Frameworks: Ruby on Rails, Python, JavaScript, FastAPI
-Web & APIs: RESTful APIs, JSON endpoints, Email integrations
-Automation & Scripting: File parsing, Tkinter GUI, web scraping
-Tools & DevOps: Git, Docker/Colima, Fly.io deployment, CI/CD pipelines
+**Backend:** Ruby, Ruby on Rails
+**Databases:** PostgreSQL, SQLite
+**APIs:** REST, JSON-based services
+**Architecture:** MVC, ActiveRecord, service-layer patterns
+**DevOps / Tools:** Git, GitHub, CI/CD workflows, Fly.io, Linux
+**Supporting Technologies:** JavaScript (integration-level use)
 
-⚡ Collaboration & Contribution
-Open to collaboration, mentorship, and freelance work. If you believe: “Let’s build it instead of whining it doesn’t exist”, we’re on the same page.
-Fork projects, open issues, or reach out via GitHub or email
-Always focused on producing clean, maintainable, production-ready code
+---
 
-📫 Contact
-Email: couchtr26@gmail.com
-GitHub: github.com/Couchtr26
-Portfolio: greyknightsoftware.itch.io
+## Production Experience
 
-© 2025 Thomas Couch — Grey Knight Software
+I have built and deployed multiple Ruby on Rails applications to production environments, where I have been responsible for backend functionality, database design, and system behavior under real usage conditions.
+
+My work includes:
+
+* Designing relational database schemas for application data models
+* Implementing authentication and role-based access systems
+* Building REST APIs for frontend and service communication
+* Deploying and maintaining Rails applications in production environments
+* Debugging runtime issues, migrations, and dependency problems
+* Working within existing Rails codebases and extending functionality safely
+
+---
+
+## Featured Projects
+
+### Trait AI — Rails Production Application
+
+[https://trait-ai.fly.dev/signup](https://trait-ai.fly.dev/signup)
+
+A Ruby on Rails application featuring:
+
+* User authentication and account management
+* Persistent memory system with controlled storage limits
+* Input filtering and moderation logic
+* Backend systems designed for stateful interactions
+
+Focus: backend state management, authentication, and system behavior control.
+
+---
+
+### Blog Application — Rails CRUD System
+
+[https://blog-app-greyknight.fly.dev/](https://blog-app-greyknight.fly.dev/)
+
+A full Ruby on Rails application implementing:
+
+* CRUD functionality for blog posts
+* Database-backed content management system
+* Standard Rails MVC architecture
+* Production deployment and runtime configuration
+
+Focus: Rails conventions, data modeling, and application structure.
+
+---
+
+### Bookstore API — Rails Backend Service
+
+A RESTful backend API built with Rails featuring:
+
+* Authentication and access control
+* Input validation and structured JSON responses
+* Controlled update permissions
+* Data integrity and backend rule enforcement
+
+Focus: API design, security rules, and backend correctness.
+
+---
+
+## Development Approach
+
+I focus on building backend systems that are:
+
+* maintainable and convention-aligned
+* structured around clear data models
+* reliable under production constraints
+* easy to extend within existing Rails applications
+
+I am comfortable working in both greenfield and existing codebases, especially where feature ownership and backend responsibility are required.
